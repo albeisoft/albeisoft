@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbeiSoft
+- 👋 Hi, I’m AlbeiSoft
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Most Used and New Technologies
 - 💞️ I’m looking to collaborate on Software Projects
