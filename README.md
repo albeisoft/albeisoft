@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AlbeiSoft
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Most Used and New Technologies
+- 🌱 I’m currently working with Most Used and New Technologies
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me: AlbeiSoft.com
 
