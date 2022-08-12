@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AlbeiSoft
+- 👋 Hi, I’m Dragos Albei
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working with Most Used and New Technologies
 - 💞️ I’m looking to collaborate on Software Projects
