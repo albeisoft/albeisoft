@@ -1,7 +1,7 @@
 - 👋 Good day, I’m Dragos Albei
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working with Most Used and New Technologies
-- 💞️ I’m looking to collaborate on Software Development Projects
+- 🌱 Currently working with Most Used and New Technologies
+- 💞️ Looking to collaborate on Software Development Projects
 - 📫 How to reach me: AlbeiSoft.com
 
 <!---
